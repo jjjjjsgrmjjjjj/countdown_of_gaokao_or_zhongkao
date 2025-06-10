@@ -1,0 +1,2 @@
+# countdown_of_gaokao_or_zhongkao
+中高考倒计时静态网站
